@@ -28,7 +28,7 @@ Jane: Hi. I can hear me.
 
 ### Objective
 
-You should write a small automated test suite that ensures the `clean_transcript.py` beaves in the correct manner. You tests should check that `clean_transcript.py` handles these cases correctly:
+You should write a small automated test suite that ensures the `clean_transcript.py` behaves in the correct manner. You tests should check that `clean_transcript.py` handles these cases correctly:
 
 * `clean_transcript` outputs a file with the following characteristics:
     * It removes the `WEBVTT` header that's in the original file.
