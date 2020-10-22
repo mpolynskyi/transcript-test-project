@@ -4,6 +4,8 @@
 
 This is a small coding challenge for us to see your approach to testing. The objective of this challenge is to validate if the python script `clean_transcript.py` conforms to the specifications by writing a small test suite.
 
+If something is unclear or you have any questions, please email [dmitriy@emissary.io](mailto:dmitriy@emissary.io) and [danny@emissary.io](mailto:danny@emissary.io), and we'll try to help you out.
+
 ### Getting started
 
 If you don't have `python` installed on your machine, you can download it [here](https://www.python.org/downloads/).
@@ -42,4 +44,4 @@ If you're unable to write all of the tests or run into technical issues, no worr
 
 ### Submitting Your Work
 
-[Fork this repository](https://guides.github.com/activities/forking/) and do your work on that fork. Push the changes up and send us a link to the fork so that we can review.
+[Fork this repository](https://guides.github.com/activities/forking/) and do your work on that fork. Push the changes up and send us a link to the fork so that we can review. Send the link to your fork to [dmitriy@emissary.io](mailto:dmitriy@emissary.io) and [danny@emissary.io](mailto:danny@emissary.io).
